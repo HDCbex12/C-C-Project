@@ -5,4 +5,6 @@ I started learning c and c++ language on april 15th 2023. I have an idea to make
 
 ## Is this going to be a big project?
 
-I'm not sure I'll be able to do it. Let's see in the future
+I'm not sure I'll be able to make big project. Let's see in the future.
+
+
