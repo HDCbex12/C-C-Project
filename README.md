@@ -1,2 +1,3 @@
 # C-C-Project
-What is this?
+
+This is my C && C++ Journey
